@@ -1,2 +1,3 @@
 # hello-code-world
 My first repository
+Something about myself...
